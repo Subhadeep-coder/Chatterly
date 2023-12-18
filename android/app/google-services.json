@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073965960222",
+    "project_id": "chatterly-d5612",
+    "storage_bucket": "chatterly-d5612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073965960222:android:ecd54ef9f4eae99a08320f",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9eO-mltXd1QsVnrb_coU4YGK4X52Pu34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
